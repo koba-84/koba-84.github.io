@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koba-84.github.io/koba84.github.io/sitemap.xml
